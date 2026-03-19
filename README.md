@@ -2,7 +2,7 @@
 
 Windhawk mod to customize window corner radius beyond Windows 11's default 8px limit.
 
-<img src="image.png" width="100%"/>
+<img src="image.png" />
 
 ## Features
 
