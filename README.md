@@ -1,4 +1,4 @@
-# windhawk-rounded-corners
+# rounded-corners-win11
 
 Windhawk mod to customize window corner radius beyond Windows 11's default 8px limit.
 
